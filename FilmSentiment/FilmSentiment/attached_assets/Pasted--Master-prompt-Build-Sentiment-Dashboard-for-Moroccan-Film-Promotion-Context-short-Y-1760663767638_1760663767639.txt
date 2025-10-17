@@ -1,0 +1,134 @@
+# Master prompt — Build Sentiment Dashboard for Moroccan Film Promotion
+
+**Context (short):**  
+You are an AI developer agent whose goal is to generate a complete, production-ready frontend dashboard that integrates with a provided backend (already coded). The dashboard will visualize sentiment analysis and audience feedback for a Moroccan film promotion. Use the provided data files as canonical examples and default data sources: `/mnt/data/overall_kpi.json`, `/mnt/data/analyzed_comments.json`, and `/mnt/data/executive_summary.txt`. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+
+---
+
+## Instructions to the AI developer agent (do everything below)
+
+### 1) Project output (deliverables)
+Produce a single frontend project (React + TypeScript recommended) packaged as a ZIP with:
+- `README.md` with run/build instructions.
+- A frontend app (folder `frontend/`) built with Vite + React + TypeScript (or Next.js if you prefer server-side rendering).
+- Use Tailwind CSS for styling.
+- Use `recharts` for charts (or Chart.js as fallback).
+- A minimal dev API layer that serves the uploaded JSON files as endpoints for local testing:
+  - `/api/kpis` → returns contents of `/mnt/data/overall_kpi.json`. :contentReference[oaicite:3]{index=3}
+  - `/api/comments` → returns contents of `/mnt/data/analyzed_comments.json`. :contentReference[oaicite:4]{index=4}
+  - `/api/executive_summary` → returns contents of `/mnt/data/executive_summary.txt`. :contentReference[oaicite:5]{index=5}
+- The app must also be able to call the real backend later via configurable environment variables (`REACT_APP_API_BASE_URL`).
+
+Output format: the tool must return a downloadable zip of the `frontend/` folder.
+
+---
+
+### 2) Required pages / screens & features
+1. **Main Dashboard (single-page view)**  
+   - Top KPI cards (compact):  
+     - Total Comments Analyzed → `Total Comments Analyzed`. :contentReference[oaicite:6]{index=6}  
+     - Overall Positive Rate → `Sentiment Analysis.Overall_Positive_Rate`. :contentReference[oaicite:7]{index=7}  
+     - Viewer Curiosity Volume → `Viewer_Curiosity_Volume`. :contentReference[oaicite:8]{index=8}  
+     - Total Actionable Insights → `Total_Actionable_Insights`. :contentReference[oaicite:9]{index=9}
+   - Small trend indicator under each KPI (up/down placeholder; populate if time series data available).
+
+2. **Sentiment Overview (chart area)**  
+   - **Pie/Donut chart** for `Tone_Distribution`: Neutral / Positive / Mixed. Map values from `Sentiment Analysis.Tone_Distribution`. :contentReference[oaicite:10]{index=10}  
+   - **Bar chart** or **stacked bars** for Positive / Neutral / Mixed / Negative counts (use `Positive_Count`, `Neutral_Count`, `Mixed_Count`, `Negative_Count` if exists). :contentReference[oaicite:11]{index=11}  
+   - If time-series data exists in the backend, show sentiment over time (line chart). If not present, keep stub and allow future integration.
+
+3. **Top Themes & Topics**  
+   - A horizontal bar chart for `Top Themes & Topics` (use the list in `overall_kpi.json`). :contentReference[oaicite:12]{index=12}  
+   - Allow clicking a theme to filter the comments table to only comments referencing that theme.
+
+4. **Comments Table / Explorer**  
+   - Show `analyzed_comments.json` rows with columns: Post ID, Snippet of Comment (truncate), Overall Tone, Key Themes, Viewer Questions (concatenated), Actionable Insights (first item), Language. :contentReference[oaicite:13]{index=13}  
+   - Filters: sentiment (Positive / Neutral / Mixed / Negative), theme, character (use `Character_Focus_Rate` and topics), free-text search.  
+   - Pagination, sorting (by sentiment, by post_id), and the ability to expand a row to see full analysis details.
+
+5. **Actionable Insights / To-Do**  
+   - Aggregate and list actionable insights across comments (from `actionable_insights` inside each comment item). Provide checkboxes to mark as addressed. Provide export (CSV / JSON).
+
+6. **Executive Summary screen**  
+   - Load `executive_summary.txt` and render it with basic styling and a “Download Summary” button. :contentReference[oaicite:14]{index=14}
+
+7. **Exports & Sharing**
+   - Buttons to download KPIs as CSV and to export the current filtered comments table to CSV.
+   - Generate a printable PDF summary of the top KPIs + sentiment pie chart (use browser print or a simple HTML-to-PDF export).
+
+8. **Settings / Integrations**
+   - Environment config for `API_BASE_URL`.
+   - Option to upload new `analyzed_comments.json` / `overall_kpi.json` (file input) for local testing.
+
+9. **Accessibility & i18n**
+   - UI must support Arabic (RTL) text and Latin scripts. Detect comment language and render direction accordingly. Use `dir="rtl"` for Arabic content.
+   - Provide language toggle (Arabic / French / English) for interface labels; comments remain in original language.
+
+---
+
+### 3) Data mapping (explicit)
+Use these keys so the frontend knows where to read each KPI and chart value:
+
+- KPIs:
+  - `totalComments = data["Total Comments Analyzed"]` (from `/api/kpis`). :contentReference[oaicite:15]{index=15}
+  - `positiveRate = data["Sentiment Analysis"]["Overall_Positive_Rate"]`. :contentReference[oaicite:16]{index=16}
+  - `viewerCuriosity = data["Viewer_Curiosity_Volume"]`. :contentReference[oaicite:17]{index=17}
+  - `actionableCount = data["Total_Actionable_Insights"]`. :contentReference[oaicite:18]{index=18}
+
+- Tone Distribution for chart:
+  - `toneDistribution = data["Sentiment Analysis"]["Tone_Distribution"]` (Neutral / Positive / Mixed). :contentReference[oaicite:19]{index=19}
+
+- Top themes:
+  - `topThemes = data["Top Themes & Topics"]` — each item is `[themeName, count]`. :contentReference[oaicite:20]{index=20}
+
+- Comments:
+  - For each comment item from `/api/comments`:  
+    - `post_id`, `comment` (full text), `analysis.sentiment.overall_tone`, `analysis.themes_and_topics`, `analysis.viewer_questions` (array), `analysis.key_feedback` (object), `analysis.actionable_insights` (array). :contentReference[oaicite:21]{index=21}
+
+- Executive summary:
+  - Plain text from `/api/executive_summary`. :contentReference[oaicite:22]{index=22}
+
+---
+
+### 4) Visual / UX guidance
+- Clean, modern layout: top navbar with film title and date-range selector; left collapsible sidebar with navigation (Dashboard, Comments, Insights, Executive Summary, Settings).
+- KPI cards at top with subtle shadows, small sparkline under each if data available.
+- Charts responsive, each with tooltip and legend. Provide color-blind friendly palettes (do not hardcode color values in code—use defaults from chart library).
+- Comments table: allow copy-to-clipboard for comment text and a context menu with quick suggested replies (use top `actionable_insights` as suggestions).
+
+---
+
+### 5) Acceptance criteria / tests
+- [ ] App runs locally with `npm install` and `npm run dev`.
+- [ ] `/api/kpis` returns the uploaded `overall_kpi.json` and dashboard displays the KPIs correctly. :contentReference[oaicite:23]{index=23}
+- [ ] `/api/comments` returns `analyzed_comments.json` and the comments table loads and filters correctly. :contentReference[oaicite:24]{index=24}
+- [ ] Executive Summary page loads and shows `executive_summary.txt`. :contentReference[oaicite:25]{index=25}
+- [ ] Export to CSV works for both KPIs and the filtered comments table.
+- [ ] Arabic comments render RTL and remain readable.
+
+---
+
+### 6) Implementation notes & small code examples (be explicit)
+**Mock API (Node/Express snippet)** — for local dev only:
+```js
+// server.js (dev only)
+const express = require('express');
+const fs = require('fs');
+const app = express();
+
+app.get('/api/kpis', (req, res) => {
+  const raw = fs.readFileSync('/mnt/data/overall_kpi.json','utf8');
+  res.json(JSON.parse(raw));
+});
+
+app.get('/api/comments', (req, res) => {
+  const raw = fs.readFileSync('/mnt/data/analyzed_comments.json','utf8');
+  res.json(JSON.parse(raw));
+});
+
+app.get('/api/executive_summary', (req,res) => {
+  const raw = fs.readFileSync('/mnt/data/executive_summary.txt','utf8');
+  res.send(raw);
+});
+
+app.listen(3001);

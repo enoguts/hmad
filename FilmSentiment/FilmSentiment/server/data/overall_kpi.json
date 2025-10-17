@@ -1,0 +1,58 @@
+{
+    "Total Comments Analyzed": 8,
+    "Sentiment Analysis": {
+        "Overall_Positive_Rate": "62.50%",
+        "Tone_Distribution": {
+            "Neutral": "25.00%",
+            "Positive": "62.50%",
+            "Mixed": "12.50%"
+        },
+        "Positive_Count": 5,
+        "Negative_Count": 0,
+        "Neutral_Count": 2,
+        "Mixed_Count": 1
+    },
+    "Top Themes & Topics": [
+        [
+            "Movie inquiry",
+            1
+        ],
+        [
+            "Social dynamics",
+            1
+        ],
+        [
+            "Work-life balance",
+            1
+        ],
+        [
+            "Sarah Dahan",
+            1
+        ],
+        [
+            "movie role",
+            1
+        ]
+    ],
+    "Character_Focus_Rate": "25.00%",
+    "Viewer_Curiosity_Volume": 5,
+    "Feedback_Type_Distribution": [
+        [
+            "Engagement",
+            4
+        ],
+        [
+            "Summary",
+            2
+        ],
+        [
+            "Questioning",
+            1
+        ],
+        [
+            "Neutral",
+            1
+        ]
+    ],
+    "Total_Actionable_Insights": 12
+}
