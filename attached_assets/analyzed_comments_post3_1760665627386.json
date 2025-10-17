@@ -1,0 +1,984 @@
+[
+    {
+        "post_id": "20001",
+        "comment": "واعر بزاف! التيزر بوحدو حماسي 🤩🤩 كيبان فيلم ديال بصح.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, expressing excitement and enthusiasm for the movie teaser."
+            },
+            "themes_and_topics": [
+                "Movie Teaser",
+                "Excitement",
+                "Enthusiasm"
+            ],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user finds the movie teaser very exciting and engaging.",
+                "emotion_words": [
+                    "واعر بزاف",
+                    "حماسي",
+                    "ديال بصح"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging the positive response to the teaser for further promotional activities.",
+                "Engage with the user to maintain interest and excitement for the upcoming movie release."
+            ]
+        }
+    },
+    {
+        "post_id": "20002",
+        "comment": "ما فهمت والو من هاد اللقطات المقطعة 🤷‍♂️ واش هادي قصة ولا كليب؟",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral, expressing confusion and seeking clarification."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [
+                {
+                    "question": "Did I understand correctly? Is this a story or a music video?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Clarification",
+                "summary": "The commenter seeks clarification regarding whether the content is a story or a music video.",
+                "emotion_words": [
+                    "confusion"
+                ]
+            },
+            "actionable_insights": [
+                "Provide clear distinctions between storytelling and music video elements in the content."
+            ]
+        }
+    },
+    {
+        "post_id": "20003",
+        "comment": "التمثيل كيبان مزيان، خاصة البطلة. عينها كتوصل الميساج ✨",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, praising the quality of acting, especially the protagonist, and acknowledging the successful delivery of the message."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "The comment appreciates the excellent acting, particularly the protagonist's performance, and acknowledges the effective conveyance of the message.",
+                "emotion_words": [
+                    "مزيان",
+                    "بطلة",
+                    "عينها",
+                    "كتوصل الميساج"
+                ]
+            },
+            "actionable_insights": []
+        }
+    },
+    {
+        "post_id": "20004",
+        "comment": "الإضاءة والزوايا ديال التصوير رديئة. خاص يخدمو على الكاليتي 📉",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative, pointing out poor lighting, angles, and quality of the photography."
+            },
+            "themes_and_topics": [
+                "Photography",
+                "Lighting",
+                "Quality"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What improvements can be made in terms of lighting and angles for better quality photography?",
+                    "type": "Technical"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The commenter criticizes the poor lighting, angles, and quality of the photography.",
+                "emotion_words": [
+                    "رديئة",
+                    "كاليتي"
+                ]
+            },
+            "actionable_insights": [
+                "Improve lighting setup and angles for better quality photos.",
+                "Focus on enhancing overall photography quality to meet viewer expectations."
+            ]
+        }
+    },
+    {
+        "post_id": "20005",
+        "comment": "نتمنى يكون قد التوقعات، حيت التيزر كيعطي أمل كبير. 🙏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, with a strong sense of hope and anticipation."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is deeply engaged and optimistic.",
+                "emotion_words": [
+                    "hope",
+                    "anticipation",
+                    "big"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging this positive anticipation in future promotional materials.",
+                "Engage with the user to sustain their level of hope and excitement."
+            ]
+        }
+    },
+    {
+        "post_id": "20006",
+        "comment": "الصوت ديال الموسيقى كان مجهد بزاف على الحوار، ما سمعتش آش قالو. 🎧❌",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative as the user found the music sound to be exhausting and couldn't hear what was being said."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The music sound was overwhelming and made it hard to follow the dialogue.",
+                "emotion_words": [
+                    "مجهد",
+                    "بزاف"
+                ]
+            },
+            "actionable_insights": [
+                "Consider adjusting the music volume to ensure it complements rather than distracts from the dialogue."
+            ]
+        }
+    },
+    {
+        "post_id": "20007",
+        "comment": "صافي، كنحجز بلاصتي فالقاعة من دابا. أحسن حاجة شفتها هاد العام! 💯",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment is overwhelmingly positive, expressing delight and satisfaction."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Highly appreciative and enthusiastic response.",
+                "emotion_words": [
+                    "صافي",
+                    "أحسن",
+                    "هاد العام"
+                ]
+            },
+            "actionable_insights": [
+                "Consider highlighting more positive experiences to engage the audience further."
+            ]
+        }
+    },
+    {
+        "post_id": "20008",
+        "comment": "ماعنديش شي رأي محدد الصراحة، لقطات عادية. نشوفو الفيلم عاد نحكمو.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment expressed in the comment is neutral. The viewer seems to have no specific opinion yet and plans to watch the movie before making a judgment."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Neutral",
+                "summary": "The viewer currently has no specific opinion on the content.",
+                "emotion_words": [
+                    "محدد",
+                    "عادية",
+                    "نحكمو"
+                ]
+            },
+            "actionable_insights": []
+        }
+    },
+    {
+        "post_id": "20009",
+        "comment": "القصة كتبان مكررة، بحال شي أفلام قدام شفناهم. 😔",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative, indicating a sense of disappointment or dissatisfaction."
+            },
+            "themes_and_topics": [
+                "Repetitive Storyline"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Is the storyline repetitive?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "Comment denotes dissatisfaction with the repetitive nature of the story.",
+                "emotion_words": [
+                    "repetitive"
+                ]
+            },
+            "actionable_insights": [
+                "Consider introducing fresh and innovative elements to the storyline to captivate viewers."
+            ]
+        }
+    },
+    {
+        "post_id": "20010",
+        "comment": "الألوان المستعملة زوينة بزاف ومريحة للعين. هادشي جديد فالسنيما المغربية 🎨",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, praising the use of colors and describing them as beautiful and pleasant to the eyes."
+            },
+            "themes_and_topics": [
+                "Colors",
+                "Appearance",
+                "Moroccan Cinema"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What specific significance do the colors hold in Moroccan cinema?",
+                    "type": "Theme"
+                }
+            ],
+            "key_feedback": {
+                "type": "Positive",
+                "summary": "The commenter appreciates the aesthetic value of the colors used in Moroccan cinema.",
+                "emotion_words": [
+                    "زوينة",
+                    "مريحة",
+                    "جديد"
+                ]
+            },
+            "actionable_insights": [
+                "Consider exploring the cultural meanings behind color choices in Moroccan cinema.",
+                "Further emphasize the visual appeal of colors in promotional materials."
+            ]
+        }
+    },
+    {
+        "post_id": "20011",
+        "comment": "كنت متوقع كثر من هاد الشي، ولكن ماشي مشكل. كاين ما يتشاف يمكن.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral, expressing a sense of expectation and possibility."
+            },
+            "themes_and_topics": [
+                "Expectation",
+                "Ambiguity"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What was expected beyond what was initially mentioned?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Neutral",
+                "summary": "The comment conveys a balanced viewpoint with a hint of uncertainty.",
+                "emotion_words": [
+                    "expected",
+                    "issue",
+                    "possible"
+                ]
+            },
+            "actionable_insights": [
+                "Clarify any ambiguous information to manage expectations effectively."
+            ]
+        }
+    },
+    {
+        "post_id": "20012",
+        "comment": "واش هاد الفيلم غايدوز فجميع المدن ولا غير فالرباط والدار البيضاء؟ 🤔",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment appears to be neutral, possibly seeking information."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [
+                {
+                    "question": "Is this film being shown in all cities or only in Rabat and Casablanca?",
+                    "type": "Plot/Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Seeking clarification on the film's screening locations.",
+                "emotion_words": [
+                    "curious"
+                ]
+            },
+            "actionable_insights": [
+                "Provide information on the screening locations of the film in various cities."
+            ]
+        }
+    },
+    {
+        "post_id": "20013",
+        "comment": "الفكرة ديال التيزر مبتكرة ومختلفة. برافو للمخرج! 👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive."
+            },
+            "themes_and_topics": [
+                "Innovative teaser concept"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What aspects of the teaser concept are considered innovative and different?",
+                    "type": "Plot/Character/Technical"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Acknowledgment of the director's creativity and praise for the original teaser concept.",
+                "emotion_words": [
+                    "برافو (Bravo)"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging more innovative concepts in future teasers to keep audience engagement high."
+            ]
+        }
+    },
+    {
+        "post_id": "20014",
+        "comment": "كنظن بلي هاد الفيلم غادي يدير ضجة. كيبان شي حاجة عالمية! 🌍",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, indicating anticipation and belief that the film will cause a sensation globally."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Anticipation for the film's global impact.",
+                "emotion_words": [
+                    "غادي (will)",
+                    "ضجة (sensation)",
+                    "عالمية (global)"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging the anticipation expressed to build excitement for the film's release.",
+                "Engage with the audience to gauge expectations and tailor marketing strategies accordingly."
+            ]
+        }
+    },
+    {
+        "post_id": "20015",
+        "comment": "شحال هادي ما تفرجت فشي فيلم مغربي، هاد التيزر رجع فيا الحماس. 💪",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, stating excitement and enthusiasm towards a Moroccan movie teaser."
+            },
+            "themes_and_topics": [
+                "Moroccan cinema",
+                "Movie teaser",
+                "Excitement",
+                "Enthusiasm"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What is the movie about?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly engaged and excited about the Moroccan movie teaser.",
+                "emotion_words": [
+                    "حماس",
+                    "مغربي",
+                    "تيزر"
+                ]
+            },
+            "actionable_insights": [
+                "Consider featuring more teasers to maintain user excitement.",
+                "Engage with the user by providing updates or behind-the-scenes content."
+            ]
+        }
+    },
+    {
+        "post_id": "20016",
+        "comment": "**Dakchi ma fihch lma3na.** L'khrif dyal l'cinema f maghrib! 🤦‍♂️",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment appears to be neutral as it doesn't strongly express positivity or negativity."
+            },
+            "themes_and_topics": [
+                "Cinema in Morocco"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What is the opinion on cinema in Morocco?",
+                    "type": "Opinion"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is sharing thoughts or experiences related to cinema in Morocco.",
+                "emotion_words": [
+                    "lma3na",
+                    "khrif"
+                ]
+            },
+            "actionable_insights": [
+                "Consider engaging the user in a discussion about their views on cinema in Morocco."
+            ]
+        }
+    },
+    {
+        "post_id": "20017",
+        "comment": "**L'moustawa hwa hwa**, ma kayench chi jadid yestahel nchoufou. Bghina qwalib jdad.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is positive, showing excitement and eagerness for new content."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Desire for New Content",
+                "summary": "Expresses a desire for new and fresh content.",
+                "emotion_words": [
+                    "qwalib",
+                    "jdad"
+                ]
+            },
+            "actionable_insights": [
+                "Consider introducing new content to meet users' expectations."
+            ]
+        }
+    },
+    {
+        "post_id": "20018",
+        "comment": "Had **l7alqa d'doura** kibane ghir **tdayi3 d'lwaqt**. Ma nsawefch nchoufou f sala.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment in the comment is neutral as it describes a situation without explicitly expressing a positive or negative opinion."
+            },
+            "themes_and_topics": [
+                "Daily activities",
+                "Observation"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What are the daily activities mentioned in the comment?",
+                    "type": "Plot"
+                },
+                {
+                    "question": "What is the significance of the observation in the comment?",
+                    "type": "Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "The comment reflects on daily activities and observations made in a neutral manner.",
+                "emotion_words": [
+                    "kibane",
+                    "nsawefch",
+                    "nchoufou"
+                ]
+            },
+            "actionable_insights": [
+                "Consider engaging the audience by asking about their daily activities or observations.",
+                "Include content that resonates with a neutral tone to cater to a wider audience."
+            ]
+        }
+    },
+    {
+        "post_id": "20019",
+        "comment": "**Ta9lid bla ma3na**. Ma 3arfouch 3lach kaydirou l'film. Kanfdel netfarrej f chi haja qdima. 🚮",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative, as the user seems disappointed or critical about the movie."
+            },
+            "themes_and_topics": [
+                "Movie review"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Why do you believe the movie lacks meaning?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The user is dissatisfied with the content of the film.",
+                "emotion_words": [
+                    "Ta9lid",
+                    "bla ma3na",
+                    "3lach",
+                    "netfarrej",
+                    "qdima"
+                ]
+            },
+            "actionable_insights": [
+                "Consider providing clearer explanations within the movie to enhance viewer satisfaction."
+            ]
+        }
+    },
+    {
+        "post_id": "20020",
+        "comment": "**L'dialogue basel** w kiban 3iyan. L'moumtilin makay9edrouch ywaslou l'i7sas. 🥶",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment in this comment is negative, possibly indicating dissatisfaction or frustration."
+            },
+            "themes_and_topics": [
+                "Dialogue quality",
+                "Emotional impact"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What is the perceived quality of the dialogue?",
+                    "type": "Plot/Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The user expresses dissatisfaction with the dialogue and emotional impact.",
+                "emotion_words": [
+                    "kiban 3iyan",
+                    "makay9edrouch",
+                    "ywaslou",
+                    "l'i7sas"
+                ]
+            },
+            "actionable_insights": [
+                "Consider improving the dialogue quality and enhancing emotional resonance to address user concerns."
+            ]
+        }
+    },
+    {
+        "post_id": "20021",
+        "comment": "Ce teaser est **incroyable** ! L'ambiance et la musique sont prenantes. J'ai hâte ! 😍",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, expressing excitement and admiration towards the teaser with the use of 'incroyable' (incredible) and 'prenantes' (captivating). The presence of the 😍 emoji further highlights the positive sentiment."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly engaged and enthusiastic about the teaser, finding it incredible and captivating.",
+                "emotion_words": [
+                    "incroyable",
+                    "prenantes",
+                    "hâte",
+                    "😍"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize similar captivating elements in future teasers to maintain and increase viewer engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "20022",
+        "comment": "Le montage est chaotique. On ne comprend rien à la chronologie de l'histoire. 👎",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment expresses a negative sentiment towards the chaotic editing and lack of clarity in the storyline."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The montage is chaotic and the storyline's chronology is unclear.",
+                "emotion_words": [
+                    "chaotique",
+                    "rien"
+                ]
+            },
+            "actionable_insights": [
+                "Consider improving the editing for better clarity in the storyline."
+            ]
+        }
+    },
+    {
+        "post_id": "20023",
+        "comment": "Très belle **photographie** et les acteurs dégagent une émotion forte. Bravo. 🎬",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, praising the beautiful photography and the strong emotions conveyed by the actors."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "The comment appreciates the photography and the emotional performance of the actors.",
+                "emotion_words": [
+                    "belle",
+                    "émotion forte",
+                    "Bravo"
+                ]
+            },
+            "actionable_insights": [
+                "Consider highlighting more photography and emotional scenes in future content."
+            ]
+        }
+    },
+    {
+        "post_id": "20024",
+        "comment": "Je trouve que ça manque d'originalité. C'est un peu vu et revu comme scénario. 🥱",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative, as the user feels that the content lacks originality and the scenario is repetitive."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The comment criticizes the lack of originality and repetitive nature of the scenario.",
+                "emotion_words": [
+                    "lack of originality",
+                    "repetitive"
+                ]
+            },
+            "actionable_insights": [
+                "Explore new and innovative ideas for content creation to enhance originality.",
+                "Consider refreshing the scenario or introducing unexpected twists to keep the audience engaged."
+            ]
+        }
+    },
+    {
+        "post_id": "20025",
+        "comment": "C'est **prometteur**. J'attends la sortie pour me faire une idée complète.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, indicating enthusiasm and anticipation towards the upcoming release."
+            },
+            "themes_and_topics": [
+                "Anticipation",
+                "Expectations",
+                "Interest"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What is the commenter looking forward to in the upcoming release?",
+                    "type": "Plot/Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Positive",
+                "summary": "The commenter finds the content promising and looks forward to forming a complete impression upon release.",
+                "emotion_words": [
+                    "prometteur",
+                    "complète"
+                ]
+            },
+            "actionable_insights": [
+                "Engage with the audience by providing updates on the release timeline and exclusive content to maintain excitement.",
+                "Encourage pre-release discussions to involve the audience in shaping their expectations and building a community around the content."
+            ]
+        }
+    },
+    {
+        "post_id": "20026",
+        "comment": "Qui est le réalisateur de ce film ? Quelqu'un sait ? 🧐",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral as the user is seeking information."
+            },
+            "themes_and_topics": [
+                "Film Director"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Who is the director of this film?",
+                    "type": "Plot/Character/Technical..."
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "User is inquiring about the film director.",
+                "emotion_words": [
+                    "curious"
+                ]
+            },
+            "actionable_insights": [
+                "Provide information about the film director in response to user query."
+            ]
+        }
+    },
+    {
+        "post_id": "20027",
+        "comment": "L'acteur principal est **magnifique** dans ce rôle, il a un charisme fou. ❤️‍🔥",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment in the comment is overwhelmingly positive, praising the main actor for his stunning performance and captivating charisma."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "The main actor's performance is exceptional and exudes charisma.",
+                "emotion_words": [
+                    "magnifique",
+                    "charisme fou"
+                ]
+            },
+            "actionable_insights": [
+                "Consider highlighting the main actor's performance and charisma in promotional materials.",
+                "Engage with the audience on social media by showcasing behind-the-scenes content with the main actor."
+            ]
+        }
+    },
+    {
+        "post_id": "20028",
+        "comment": "Je suis un peu déçu par la qualité visuelle, on dirait un vieux film tourné avec de faibles moyens. 🧐",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative, as the user is disappointed by the visual quality, comparing it to an old film made with low resources."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "Disappointment with visual quality, comparing it to a low-budget old film.",
+                "emotion_words": [
+                    "déçu",
+                    "vieux",
+                    "faibles"
+                ]
+            },
+            "actionable_insights": [
+                "Consider improving the visual quality to meet viewer expectations."
+            ]
+        }
+    },
+    {
+        "post_id": "20029",
+        "comment": "Le teaser est court, mais **efficace**. On veut en voir plus ! ✨",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, indicating excitement and eagerness to see more."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The teaser is short but effective, generating curiosity and a desire for more content.",
+                "emotion_words": [
+                    "efficace",
+                    "voir plus"
+                ]
+            },
+            "actionable_insights": [
+                "Consider creating more teasers to maintain viewer interest and engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "20030",
+        "comment": "Je ne suis pas fan des films dramatiques. J'espérais une comédie. 😔",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative as the user is disappointed for not getting a comedy movie."
+            },
+            "themes_and_topics": [
+                "Movie Preferences",
+                "Genre Expectations"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Were the genre expectations met?",
+                    "type": "Plot/Genre"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "Disappointment due to genre mismatch.",
+                "emotion_words": [
+                    "disappointed"
+                ]
+            },
+            "actionable_insights": [
+                "Consider providing clearer genre indications in movie previews."
+            ]
+        }
+    }
+]

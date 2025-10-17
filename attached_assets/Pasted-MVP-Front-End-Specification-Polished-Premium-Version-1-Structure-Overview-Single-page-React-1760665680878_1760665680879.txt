@@ -1,0 +1,157 @@
+MVP Front-End Specification (Polished & Premium Version)
+🧭 1) Structure Overview
+
+Single-page React (or Next.js) app with a clean analytics dashboard UI.
+Theme: minimalist cinematic analytics — think Netflix meets Notion.
+Font: Inter or Poppins, dark mode default, subtle neon accents.
+
+🖥️ 2) Core Screens / Components
+1. Main Dashboard
+
+One screen with collapsible side navigation (Dashboard | Comments | Insights | Summary | Settings).
+
+Layout:
+
+Top navbar: film/project title, date range dropdown, language selector.
+
+KPI cards grid (4 compact cards):
+
+Total Comments Analyzed → totalComments
+
+Overall Positive Rate → positiveRate
+
+Viewer Curiosity Volume → viewerCuriosity
+
+Total Actionable Insights → actionableCount
+
+Each KPI card:
+
+Minimal icon (👍, 💬, 🔍, ⚙️)
+
+Small sparkline trend (if data available)
+
+Green/red arrow for trend direction
+
+Elegant hover animation
+
+Below KPIs:
+
+Row 1: Sentiment Overview
+
+Left: Donut chart (Tone_Distribution)
+
+Right: Bar chart for tone counts (Positive / Neutral / Mixed / Negative)
+
+Row 2: Top Themes & Topics
+
+Horizontal bar chart (Top Themes & Topics)
+
+Click → filters comment table below
+
+2. Comments Explorer
+
+Fast table explorer with 3 post outputs preloaded.
+
+Columns:
+| Post ID | Comment Snippet | Tone | Themes | Viewer Questions | Actionable Insight | Language |
+
+Interactions:
+
+Click to expand → full analysis panel (with sentiment breakdown + keywords)
+
+Filters: tone, theme, free text search
+
+Sort by sentiment / post ID
+
+Pagination (3 posts, demo size)
+
+Copy-to-clipboard button for comment text
+
+💡 Bonus UX:
+Hover over a comment → tooltip preview of main insight.
+
+3. Actionable Insights
+
+Aggregated checklist view
+
+Each row = one actionable insight
+
+Checkbox: “Done” → visually strikes it out
+
+Export → CSV or JSON
+
+4. Executive Summary
+
+Loads text from executive_summary.txt
+
+Clean typography, justified layout
+
+“Download PDF” button → auto-generates print view (KPI + charts + summary)
+
+5. Settings / Upload
+
+Upload buttons for overall_kpi.json, analyzed_comments.json
+
+Input for API_BASE_URL
+
+Data reset button (clear & reload sample 3-post dataset)
+
+🌍 3) i18n & Accessibility
+
+RTL support for Arabic (dir="rtl")
+
+Language toggle (EN / FR / AR)
+
+UI text adapts; comment text remains original
+
+Charts auto-flip direction in RTL mode
+
+💾 4) Data Mapping (Final Form)
+KPI Data:
+{
+  totalComments: data["Total Comments Analyzed"],
+  positiveRate: data["Sentiment Analysis"]["Overall_Positive_Rate"],
+  viewerCuriosity: data["Viewer_Curiosity_Volume"],
+  actionableCount: data["Total_Actionable_Insights"]
+}
+
+Charts:
+toneDistribution = data["Sentiment Analysis"]["Tone_Distribution"]
+topThemes = data["Top Themes & Topics"]
+
+Comments:
+[
+  {
+    post_id,
+    comment,
+    analysis: {
+      sentiment: { overall_tone },
+      themes_and_topics,
+      viewer_questions,
+      actionable_insights
+    },
+    language
+  }
+]
+
+✨ 5) Design Language
+
+Color palette:
+
+Background: #0d0d0f
+
+Accent: #00E0FF or #FFB547
+
+Text: #f8f8f8
+
+Muted text: #9CA3AF
+
+Components:
+
+Cards → rounded 2xl, soft glass blur effect
+
+Charts → responsive, legend below
+
+Sidebar → icon + tooltip mini-state
+
+Motion → Framer Motion fade & slide

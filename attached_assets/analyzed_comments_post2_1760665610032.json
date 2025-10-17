@@ -1,0 +1,617 @@
+[
+    {
+        "post_id": "17884687413264723",
+        "comment": "🔥🔥👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, expressing enthusiasm and approval."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user seems highly engaged and supportive.",
+                "emotion_words": [
+                    "excited",
+                    "enthusiastic",
+                    "positive"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging this positive engagement for further audience interaction."
+            ]
+        }
+    },
+    {
+        "post_id": "18160314217348080",
+        "comment": "👏👏👏🔥",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is very positive, likely indicating appreciation or enthusiasm."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly engaged and enthusiastic.",
+                "emotion_words": [
+                    "👏",
+                    "👏",
+                    "👏",
+                    "🔥"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging the user's enthusiasm to boost engagement and create a sense of community."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010010",
+        "comment": "بصراحة، الفيلم واعر بزاف. قصة زوينة وتمثيل على حقو وطريقو. تحية للناس لي خدمو عليه.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, praising the story, acting, and direction of the film."
+            },
+            "themes_and_topics": [
+                "Film quality",
+                "Story",
+                "Acting",
+                "Direction"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What makes the story and acting stand out in this film?",
+                    "type": "Plot/Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "Highly positive feedback on the film's quality, story, acting, and direction.",
+                "emotion_words": [
+                    "واعر بزاف",
+                    "زوينة",
+                    "على حقو",
+                    "طريقو",
+                    "تحية"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging the positive feedback to promote the film through social media channels."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010011",
+        "comment": "طويل بزاف! حسيت بالملل فالنص ديالو. كان خاصهم ينقصو من شي لقطات.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is negative due to feelings of boredom and the perception that key scenes were missing."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "The viewer found the content too long, boring, and lacking key scenes.",
+                "emotion_words": [
+                    "boring",
+                    "missing"
+                ]
+            },
+            "actionable_insights": [
+                "Consider editing for pace and adding important scenes for better engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010012",
+        "comment": "ضحكني هاد الفيلم! زوين بزاف وكايدوز بالزربة. الأجواء ديالو فكراتني فالمغرب ديال زمان.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is overwhelmingly positive, with the user finding the film very funny, enjoyable, and reminiscent of the old Moroccan atmosphere."
+            },
+            "themes_and_topics": [
+                "Humor",
+                "Enjoyment",
+                "Moroccan Culture"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What specific aspects of the film made it funny and enjoyable?",
+                    "type": "Plot/Character/Technical..."
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user was highly engaged by the humor and cultural references in the film.",
+                "emotion_words": [
+                    "ضحكني",
+                    "زوين",
+                    "ديالو",
+                    "فكراتني"
+                ]
+            },
+            "actionable_insights": [
+                "Consider incorporating more elements of Moroccan culture and humor in future content.",
+                "Engage with audiences by creating content that evokes nostalgia or familiarity."
+            ]
+        }
+    },
+    {
+        "post_id": "17973693803945871",
+        "comment": "🔥🔥👏👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, indicated by the use of fire emojis and clapping hands emojis."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly engaged and enthusiastic about the content.",
+                "emotion_words": [
+                    "🔥",
+                    "👏"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize emojis in responses to enhance user engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "17952481668041100",
+        "comment": "👏👏👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment consists of multiple clapping emojis, indicating a very positive sentiment."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly appreciative or supportive.",
+                "emotion_words": [
+                    "applause",
+                    "supportive",
+                    "positive"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging this positive feedback to enhance user engagement.",
+                "Explore creating content that resonates with the user's appreciation."
+            ]
+        }
+    },
+    {
+        "post_id": "18062126537117471",
+        "comment": "🔥🔥🔥",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment conveys a highly positive sentiment, possibly indicating excitement or admiration."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is highly engaged and enthusiastic about the content.",
+                "emotion_words": [
+                    "fire",
+                    "excitement"
+                ]
+            },
+            "actionable_insights": [
+                "Consider leveraging the user's enthusiasm to create more captivating content.",
+                "Explore the use of emoticons to enhance engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "17950617089902609",
+        "comment": "❤️❤️",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment expresses a very positive sentiment with the use of two heart emojis."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The comment shows strong emotional engagement.",
+                "emotion_words": [
+                    "love"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize emojis to enhance engagement with the audience."
+            ]
+        }
+    },
+    {
+        "post_id": "18115199554547996",
+        "comment": "🔥🔥🔥🔥",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment expresses a highly positive sentiment, possibly indicating excitement or appreciation."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is very engaged and enthusiastic.",
+                "emotion_words": [
+                    "excitement",
+                    "appreciation"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize emojis like 🔥 to enhance engagement with the audience."
+            ]
+        }
+    },
+    {
+        "post_id": "18078484061038095",
+        "comment": "🔥🔥🔥🔥🔥👏👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, indicated by multiple fire and clapping emojis."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The comment shows high engagement and excitement.",
+                "emotion_words": [
+                    "🔥",
+                    "👏"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize emojis like 🔥 and 👏 to further engage with the audience."
+            ]
+        }
+    },
+    {
+        "post_id": "18083542450779219",
+        "comment": "الإبداع👏👏❤️",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is highly positive, showcasing admiration and appreciation."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user appreciates the content",
+                "emotion_words": [
+                    "إبداع",
+                    "❤️"
+                ]
+            },
+            "actionable_insights": [
+                "Encourage more user engagement by acknowledging and appreciating positive comments."
+            ]
+        }
+    },
+    {
+        "post_id": "17978223386920130",
+        "comment": "👏👏👏🏻👏👏👏👏👏👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is overwhelmingly positive, indicated by the enthusiastic clapping emojis."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The commenter is highly engaged and appreciative.",
+                "emotion_words": [
+                    "enthusiastic",
+                    "positive",
+                    "appreciative"
+                ]
+            },
+            "actionable_insights": [
+                "Continue to engage with the commenter to foster a positive relationship.",
+                "Consider incorporating emojis like 👏 to enhance engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "18114923110537448",
+        "comment": "👏👏👏",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment consists of clapping emojis which typically signify appreciation and positivity."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is showing appreciation for the content.",
+                "emotion_words": [
+                    "appreciation",
+                    "positivity"
+                ]
+            },
+            "actionable_insights": [
+                "Continue to create content that resonates positively with the audience."
+            ]
+        }
+    },
+    {
+        "post_id": "18320501308208684",
+        "comment": "🙌🔥👏😍😮😂",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment conveys a highly positive sentiment, likely expressing excitement and admiration."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Expresses positive emotions and enthusiasm.",
+                "emotion_words": [
+                    "excited",
+                    "admiration",
+                    "joyful"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize emojis to enhance engagement and convey positive emotions in future content."
+            ]
+        }
+    },
+    {
+        "post_id": "18065359256369417",
+        "comment": "😂😂",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment consists of two laughing emojis, indicating a positive and humorous reaction."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user found the content amusing or entertaining.",
+                "emotion_words": [
+                    "Laughing",
+                    "Humorous"
+                ]
+            },
+            "actionable_insights": [
+                "Utilize engaging and humorous content to further connect with the audience."
+            ]
+        }
+    },
+    {
+        "post_id": "18292712098257203",
+        "comment": "😂😂😂❤️",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The comment expresses a positive sentiment, likely indicating joy or amusement."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The user is very engaged and finds the content entertaining.",
+                "emotion_words": [
+                    "joyful",
+                    "amused"
+                ]
+            },
+            "actionable_insights": [
+                "Consider creating more content that evokes positive emotions like joy and amusement."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010013",
+        "comment": "الكاميرا ماكانتش واضحة فشي بلايص، والديكورات قدام بزاف. خاصهم شوية ديال التجديد.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is negative, mentioning unclear camera quality and excessive foreground decorations, particularly criticizing the lack of renovation."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "Negatively critiques camera clarity, foreground decorations, and calls for renovation.",
+                "emotion_words": [
+                    "unclear",
+                    "excessive",
+                    "criticizing"
+                ]
+            },
+            "actionable_insights": [
+                "Consider improving camera quality and balancing decorations to enhance viewer experience."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010014",
+        "comment": "الفنانة الفلانية أبدعات! تستاهل شي جائزة. تفرجت فيه جوج مرات باش نعاود نشوف التمثيل ديالها.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is highly positive, praising the actress and indicating anticipation to see more of her performances."
+            },
+            "themes_and_topics": [
+                "Acting skills",
+                "Deserving recognition",
+                "Anticipation for future projects"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What other performances of the actress have impressed you?",
+                    "type": "Plot/Character/Technical"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The commenter appreciates the actress's talent and is looking forward to her upcoming work.",
+                "emotion_words": [
+                    "ابدعات",
+                    "تستاهل",
+                    "جائزة",
+                    "تفرجت",
+                    "نعاود",
+                    "تمثيل"
+                ]
+            },
+            "actionable_insights": [
+                "Consider showcasing more of the actress's work to engage the audience further."
+            ]
+        }
+    },
+    {
+        "post_id": "90010010010010015",
+        "comment": "خسارة ديال الفلوس والوقت. القصة ماعندها علاقة بالواقع المغربي ديال دابا.",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Negative",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 100,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed is negative, indicating disappointment and a lack of connection to the current Moroccan reality."
+            },
+            "themes_and_topics": [
+                "Loss of money and time",
+                "Disconnect from current Moroccan reality"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "How does the story fail to relate to the current Moroccan context?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Criticism",
+                "summary": "Expresses disappointment in the story's lack of relevance to the current Moroccan setting.",
+                "emotion_words": [
+                    "خسارة",
+                    "ماعندها علاقة"
+                ]
+            },
+            "actionable_insights": [
+                "Consider incorporating more elements that resonate with the contemporary Moroccan society."
+            ]
+        }
+    }
+]
