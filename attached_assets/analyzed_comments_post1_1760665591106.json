@@ -1,0 +1,284 @@
+[
+    {
+        "post_id": "3744058027322926976_74164116301",
+        "comment": "واحد السؤال بقى كايدور لينا فالراس من لي شفنا فيلم زاز: فين كان مخبي عبدو الشامي هاد الوقت كامل؟",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral as it is a question seeking information."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [
+                {
+                    "question": "Where was Abdou el-Shamy hiding the whole time in the Zaz movie?",
+                    "type": "Plot"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Engaging question about a specific plot detail in the movie Zaz.",
+                "emotion_words": [
+                    "curious"
+                ]
+            },
+            "actionable_insights": [
+                "Consider engaging with the audience by responding to such specific queries about plot details."
+            ]
+        }
+    },
+    {
+        "post_id": "3744117249008243051_76220462805",
+        "comment": "ليوم نتعرفو على واحد 'الكوپل' لي خدّام و ما خدّامش فنفس الوقت:,",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral."
+            },
+            "themes_and_topics": [
+                "Relationship dynamics"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What are the challenges faced by couples who work together and those who don't simultaneously?",
+                    "type": "Relationship"
+                }
+            ],
+            "key_feedback": {
+                "type": "Neutral",
+                "summary": "Comment shares an observation about couples who work together and those who don't simultaneously.",
+                "emotion_words": [
+                    "observation"
+                ]
+            },
+            "actionable_insights": [
+                "Explore the impact of shared and distinct work environments on relationships for content creation."
+            ]
+        }
+    },
+    {
+        "post_id": "3744768345262664285_74164116301",
+        "comment": "سارة دحاني هدرات لينا على الدور ديالها ففيلم #زاز، و الأهمية ديال اكتشاف وجوه جداد فالسينيما المغربية 🫶🏼",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment is overwhelmingly positive, expressing excitement and appreciation for Sara Dahhani's role in the movie #Zaz, highlighting the importance of discovering new talents in Moroccan cinema."
+            },
+            "themes_and_topics": [
+                "Celebrating New Faces in Moroccan Cinema"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What role does Sara Dahhani play in the movie #Zaz?",
+                    "type": "Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "High engagement due to positive reception of Sara Dahhani's performance and the focus on new talents in Moroccan cinema.",
+                "emotion_words": [
+                    "excited",
+                    "appreciation",
+                    "importance"
+                ]
+            },
+            "actionable_insights": [
+                "Highlight the impact of promoting new talents in content marketing strategies."
+            ]
+        }
+    },
+    {
+        "post_id": "3744614132122187061_76220462805",
+        "comment": "جواد السايح هو : السورسي! ماتگولوش ليه شفار، بل هو نشال، بالعربية الفصحى",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment expressed in the comment is positive, possibly praising or celebrating 'جواد السايح' and defining him positively in an informal style."
+            },
+            "themes_and_topics": [
+                "Identity",
+                "Description",
+                "Language"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Who is 'السورسي' and why is 'جواد السايح' referred to as such?",
+                    "type": "Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Positive engagement with the character 'جواد السايح' and the use of informal language for description.",
+                "emotion_words": [
+                    "جواد السايح",
+                    "السورسي",
+                    "نشال"
+                ]
+            },
+            "actionable_insights": [
+                "Consider exploring further the positive reception and engagement with 'جواد السايح' character. Leverage the use of informal language for relatability."
+            ]
+        }
+    },
+    {
+        "post_id": "3743334016121371475_76220462805",
+        "comment": "تلاقينا مع زاز و حليمة باش نتعرفو شوية عليهم قبل 5 نونبر!",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Positive",
+                "breakdown": {
+                    "positive_percent": 100,
+                    "negative_percent": 0,
+                    "neutral_percent": 0
+                },
+                "commentary": "The sentiment of the comment is positive, as the user expresses excitement and eagerness to meet 'زاز' and 'حليمة' before November 5th."
+            },
+            "themes_and_topics": [],
+            "viewer_questions": [],
+            "key_feedback": {
+                "type": "Summary",
+                "summary": "The user is looking forward to meeting 'زاز' and 'حليمة' before November 5th.",
+                "emotion_words": [
+                    "excited",
+                    "eager"
+                ]
+            },
+            "actionable_insights": [
+                "Engage users by sharing more details about 'زاز' and 'حليمة' to maintain interest."
+            ]
+        }
+    },
+    {
+        "post_id": "3741718674433431165_76220462805",
+        "comment": "براهيم خاي هو : لبرلماني!\nگال ليكم غاي خدّمكم، و هو براسو ما خدّامش…",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral as it does not express a strong positive or negative emotion."
+            },
+            "themes_and_topics": [
+                "Politics",
+                "Political Representation"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What is the speaker's view on political representation?",
+                    "type": "Opinion"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "Engagement with the concept of political representation is evident in the comment.",
+                "emotion_words": [
+                    "غاي",
+                    "خدّم",
+                    "براسو",
+                    "خدّامش"
+                ]
+            },
+            "actionable_insights": [
+                "Consider addressing the topic of political representation in more detail.",
+                "Engage with users to understand their views on political engagement."
+            ]
+        }
+    },
+    {
+        "post_id": "3740982350868968785_76220462805",
+        "comment": "زكرياء عاطفي هو : التّعلب! متحكم فريزو قدّو قدّاش و مازال ما طاحو عليه، حيت كاي خدّم عقلو…",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment is neutral as the comment does not express a clear positive or negative emotion."
+            },
+            "themes_and_topics": [
+                "Emotional Intelligence",
+                "Control",
+                "Mystery"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "What does the phrase 'متحكم فريزو قدّو قدّاش' imply?",
+                    "type": "Interpretation"
+                }
+            ],
+            "key_feedback": {
+                "type": "Engagement",
+                "summary": "The comment engages with the character emotionally and highlights a sense of mystery.",
+                "emotion_words": [
+                    "عاطفي",
+                    "متحكم",
+                    "خدّم",
+                    "عقلو"
+                ]
+            },
+            "actionable_insights": [
+                "Consider exploring and emphasizing the mystery surrounding the character further in content.",
+                "Analyze audience reactions to emotional aspects of characters for potential storylines."
+            ]
+        }
+    },
+    {
+        "post_id": "3740296211371658942_76220462805",
+        "comment": "صلاح بنصالح هو : الفيلسوف!\nعنداكم تسوّلوه علاش شي حاجة: بقيتو تمّا…",
+        "analysis": {
+            "sentiment": {
+                "overall_tone": "Neutral",
+                "breakdown": {
+                    "positive_percent": 0,
+                    "negative_percent": 0,
+                    "neutral_percent": 100
+                },
+                "commentary": "The sentiment of the comment is neutral as it seems to be stating a fact or observation without expressing clear positive or negative emotions."
+            },
+            "themes_and_topics": [
+                "Philosophy"
+            ],
+            "viewer_questions": [
+                {
+                    "question": "Who is Salah Bensaleh?",
+                    "type": "Character"
+                }
+            ],
+            "key_feedback": {
+                "type": "Neutral",
+                "summary": "The comment introduces Salah Bensaleh as a philosopher without clear positive or negative feedback.",
+                "emotion_words": [
+                    "الفيلسوف",
+                    "تسوّلوه"
+                ]
+            },
+            "actionable_insights": [
+                "Further explore the role of Salah Bensaleh as a philosopher and its relevance to the discussion."
+            ]
+        }
+    }
+]

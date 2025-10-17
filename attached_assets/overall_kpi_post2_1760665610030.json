@@ -1,0 +1,53 @@
+{
+    "Total Comments Analyzed": 20,
+    "Sentiment Analysis": {
+        "Overall_Positive_Rate": "85.00%",
+        "Tone_Distribution": {
+            "Positive": "85.00%",
+            "Negative": "15.00%"
+        },
+        "Positive_Count": 17,
+        "Negative_Count": 3,
+        "Neutral_Count": 0,
+        "Mixed_Count": 0
+    },
+    "Top Themes & Topics": [
+        [
+            "Film quality",
+            1
+        ],
+        [
+            "Story",
+            1
+        ],
+        [
+            "Acting",
+            1
+        ],
+        [
+            "Direction",
+            1
+        ],
+        [
+            "Humor",
+            1
+        ]
+    ],
+    "Character_Focus_Rate": "0.00%",
+    "Viewer_Curiosity_Volume": 4,
+    "Feedback_Type_Distribution": [
+        [
+            "Engagement",
+            16
+        ],
+        [
+            "Criticism",
+            3
+        ],
+        [
+            "Summary",
+            1
+        ]
+    ],
+    "Total_Actionable_Insights": 24
+}

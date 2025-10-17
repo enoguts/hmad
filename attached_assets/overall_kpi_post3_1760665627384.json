@@ -1,0 +1,70 @@
+{
+    "Total Comments Analyzed": 30,
+    "Sentiment Analysis": {
+        "Overall_Positive_Rate": "46.67%",
+        "Tone_Distribution": {
+            "Positive": "46.67%",
+            "Neutral": "23.33%",
+            "Negative": "30.00%"
+        },
+        "Positive_Count": 14,
+        "Negative_Count": 9,
+        "Neutral_Count": 7,
+        "Mixed_Count": 0
+    },
+    "Top Themes & Topics": [
+        [
+            "Excitement",
+            2
+        ],
+        [
+            "Enthusiasm",
+            2
+        ],
+        [
+            "Movie Teaser",
+            1
+        ],
+        [
+            "Photography",
+            1
+        ],
+        [
+            "Lighting",
+            1
+        ]
+    ],
+    "Character_Focus_Rate": "0.00%",
+    "Viewer_Curiosity_Volume": 16,
+    "Feedback_Type_Distribution": [
+        [
+            "Engagement",
+            11
+        ],
+        [
+            "Criticism",
+            9
+        ],
+        [
+            "Summary",
+            4
+        ],
+        [
+            "Neutral",
+            2
+        ],
+        [
+            "Positive",
+            2
+        ],
+        [
+            "Clarification",
+            1
+        ],
+        [
+            "Desire for New Content",
+            1
+        ]
+    ],
+    "Total_Actionable_Insights": 38
+}
